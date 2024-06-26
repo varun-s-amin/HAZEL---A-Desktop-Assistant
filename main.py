@@ -182,7 +182,6 @@ if __name__ == '__main__':
 #no function
             elif 'news' in query:
                 from online import news
-
                 news()
 
 
